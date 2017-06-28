@@ -17,6 +17,7 @@ Example:
 
 ``` bash
 $ vue init findwisdom/hx-vue-cli wms
+$ cd wms
 $ cnpm install
 $ npm dll-build
 $ npm run dev
