@@ -1,0 +1,1300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"bootstrap-theme.min.css"
+			],
+			[
+				"boost",
+				"bootstrap.min.css"
+			],
+			[
+				"boot",
+				"bootstrap/"
+			],
+			[
+				"defa",
+				"defaultUser.jpg\tw:220 h:220"
+			],
+			[
+				"boots",
+				"bootstrap-webpack/"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"L",
+				"Layout-Side-Nav.vue"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"com",
+				"components\t(main.js)"
+			],
+			[
+				"ba",
+				"background: 〔property〕"
+			],
+			[
+				"qu",
+				"quitEdit"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"scr",
+				"scroll〔value〕"
+			],
+			[
+				"over",
+				"overflow: 〔property〕"
+			],
+			[
+				"dfmRE",
+				"dfmReportRatingDDLOptions.js"
+			],
+			[
+				"sp",
+				"splice"
+			],
+			[
+				"staf",
+				"staffTotalPageData"
+			],
+			[
+				"c",
+				"colspan\tAttr"
+			],
+			[
+				"sle",
+				"selectedItem"
+			],
+			[
+				"isE",
+				"isEdit"
+			],
+			[
+				"sel",
+				"selectedItem"
+			],
+			[
+				"sele",
+				"selectedItem〔variable〕"
+			],
+			[
+				"obj",
+				"objA"
+			],
+			[
+				"wat",
+				"watch\t(button-new-item.vue)"
+			],
+			[
+				"dfmReportad",
+				"dfmTotalReportAddtional.vue"
+			],
+			[
+				"ove",
+				"text-overflow"
+			],
+			[
+				"b",
+				"bootstrap/"
+			],
+			[
+				"jque",
+				"jquery-easyui-1.5.1"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"data-g",
+				"data-grid-pager.vue"
+			],
+			[
+				"DfmOri",
+				"DfmOriginalDepositBaseSetting-Staff.vue"
+			],
+			[
+				"vuex-map",
+				"vuex-mapGetters\tvuex-mapGetters"
+			],
+			[
+				"dfmOriginal",
+				"DfmOriginalDepositBaseSetting-Department.vue"
+			],
+			[
+				"delive",
+				"deliv_date"
+			],
+			[
+				"input-g",
+				"input-group-addon\t(ApprovingCustBase.vue)"
+			],
+			[
+				"getEx",
+				"getExchVarietys\t(ExchVariety.vue)"
+			],
+			[
+				"all",
+				"allDelivSeats"
+			],
+			[
+				"cls",
+				"class\tAttr"
+			],
+			[
+				"cust",
+				"Cust/"
+			],
+			[
+				"res",
+				"resource\t(approvingCustActions.js)"
+			],
+			[
+				"btn-par",
+				"btn-primary"
+			],
+			[
+				"lab",
+				"labels1"
+			],
+			[
+				"dfm",
+				"dfmGetReportUnitTotal\t(DfmChartUnit-Rank.vue)"
+			],
+			[
+				"ser",
+				"seriesItem"
+			],
+			[
+				"wa",
+				"watch\t(DfmReport.vue)"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"datas",
+				"datasets"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"comp",
+				"components\t(DfmReport.vue)"
+			],
+			[
+				"dfmchart",
+				"DfmChartUnit-General.vue"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"vuex",
+				"vue-extend\tvue-extend"
+			],
+			[
+				"getV",
+				"getVariState"
+			],
+			[
+				"fa-",
+				"fa-sort-down"
+			],
+			[
+				"imported",
+				"importedList"
+			],
+			[
+				"error",
+				"errorList\t(BaseDataUnit.js)"
+			],
+			[
+				"import",
+				"importedCount\t(BaseDataUnit.js)"
+			],
+			[
+				"dfmBat",
+				"dfmLogicStaffBatchAdd"
+			],
+			[
+				"erro",
+				"errorList"
+			],
+			[
+				"searchWa",
+				"searchWatingOriginalStaffName"
+			],
+			[
+				"mini",
+				"min-height: 〔property〕"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"show",
+				"showOriginalDrawer〔function〕"
+			],
+			[
+				"fun",
+				"fun\tfun"
+			],
+			[
+				"showOringal",
+				"showOriginalDrawer"
+			],
+			[
+				"original",
+				"originalStaffQuery"
+			],
+			[
+				"log",
+				"logicStaff"
+			],
+			[
+				"search",
+				"searchWaitingAssignName"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"select",
+				"selectedSetting〔variable〕"
+			],
+			[
+				"deb",
+				"debugger〔keyword〕"
+			],
+			[
+				"p",
+				"payload"
+			],
+			[
+				"vuex-a",
+				"vuex-actions-webApi\tvuex-actions-webApi"
+			],
+			[
+				"dfmoi",
+				"DfmOiginalDepositBaseSettingDetails.vue"
+			],
+			[
+				"dfmoiginal",
+				"DfmOiginalDepositBase.vue"
+			],
+			[
+				"新增",
+				"新增手续费率历史\t(menu.js)"
+			],
+			[
+				"deport",
+				"depositBase〔variable〕"
+			],
+			[
+				"lastMOn",
+				"lastMonthDeposit"
+			],
+			[
+				"DfmReport",
+				"DfmUnitReportTotal-Unit-Item.vue"
+			],
+			[
+				"vuex-mp",
+				"vuex-mapGetters\tvuex-mapGetters"
+			],
+			[
+				"ReportStaff",
+				"ReportTotalStaff"
+			],
+			[
+				"repors",
+				"reports"
+			],
+			[
+				"vuex-ge",
+				"vuex-mapGetters\tvuex-mapGetters"
+			],
+			[
+				"update",
+				"uploadItems"
+			],
+			[
+				"imprt",
+				"import"
+			],
+			[
+				"vuex-ma",
+				"vuex-mapGetters\tvuex-mapGetters"
+			],
+			[
+				"rep",
+				"ReportActions.js"
+			],
+			[
+				"parm",
+				"paramName"
+			],
+			[
+				"par",
+				"paramName"
+			],
+			[
+				"unit",
+				"DfmUnitReportTotal-Unit.vue"
+			],
+			[
+				"compan",
+				"companyId"
+			],
+			[
+				"compn",
+				"components\t(DfmLogicStaff.vue)"
+			],
+			[
+				"原始",
+				"原始人员管理\t(menu.js)"
+			],
+			[
+				"dep",
+				"depart"
+			],
+			[
+				"prog",
+				"progress\t<progress>"
+			],
+			[
+				"progress",
+				"progress"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"ifrm",
+				"iframe\tTag"
+			],
+			[
+				"sals",
+				"salesDepartmentId"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"compay",
+				"company"
+			],
+			[
+				"resou",
+				"resource"
+			],
+			[
+				"Com",
+				"CompanyId"
+			],
+			[
+				"query",
+				"queryParams"
+			],
+			[
+				"quer",
+				"queryParams"
+			],
+			[
+				"pa",
+				"data-grid-pager.vue"
+			],
+			[
+				"m",
+				"modules/"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"基础",
+				"基础单元数据管理\t(DfmBaseDataUnit.vue)"
+			],
+			[
+				"clumns",
+				"columns"
+			],
+			[
+				"Dfm",
+				"DfmBaseDataUnit"
+			],
+			[
+				"a",
+				"ApprovingCust.vue"
+			],
+			[
+				"custEdi",
+				"custEditHistoryActions.js"
+			],
+			[
+				"var",
+				"variName"
+			],
+			[
+				"custEditH",
+				"custEditHistory.js"
+			],
+			[
+				"custEdit",
+				"custEditHistoryGetters.js"
+			],
+			[
+				"tbody",
+				"tbody\tTag"
+			],
+			[
+				"the",
+				"thead\t<thead>"
+			],
+			[
+				"ta",
+				"table\tTag"
+			],
+			[
+				"custma",
+				"custManageActions.js"
+			],
+			[
+				"mu",
+				"modules/"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "build/check-versions.js",
+			"settings":
+			{
+				"buffer_size": 1172,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "install p",
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"Convert",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"resource ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsFormat",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Respource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"intallp",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageResourceViewer: Open Resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 458.0,
+		"history":
+		[
+			"PackageResourceViewer",
+			"PackageResourceViewer: Open Resource",
+			"open resource",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/build",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/layout",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/router"
+	],
+	"file_history":
+	[
+		"/C/Users/ChenYitian/Desktop/profile",
+		"/C/Users/ChenYitian/Desktop/ssh_config",
+		"/C/Users/ChenYitian/Desktop/Path.txt",
+		"/C/Users/ChenYitian/Desktop/passwd",
+		"/C/Users/ChenYitian/Desktop/.bashrc",
+		"/C/Users/ChenYitian/Desktop/sshd_config",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/package.json",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/Index.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/node_modules/bootstrap-loader/package.json",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/index.html",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/build/webpack.base.conf.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/build/webpack.dev.conf.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/main.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/build/webpack.prod.conf.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/node_modules/bootstrap-webpack/index.js",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Client/src/App.vue",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Client/index.html",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/layout/SideBar.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/layout/Header.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/layout/Footer.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/layout/Content.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/Login.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/App.vue",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/node_modules/admin-lte/pages/examples/login.html",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/router/index.js",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Client/src/main.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/node_modules/bootstrap-webpack/package.json",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/node_modules/bootstrap-webpack/bootstrap-scripts.loader.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/node_modules/bootstrap-webpack/bootstrap.config.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/config/bootstrap.config.less",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/config/bootstrap.config.js",
+		"/C/Work/Projects/Test/element-ui-demo/src/main.js",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/.eslintrc.js",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Client/.eslintrc.js",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Wpbs.Webapi/Wpbs.WebApi/Logs/Error-20170223.log",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Publish/Website/wpbs.wdqh.com/api/Web.config",
+		"/C/Work/Projects/Asp.net Core/IdentityServer4/IdentityServer4.Samples-release/Quickstarts/1_ClientCredentials/src/QuickstartIdentityServer/bin/Release/PublishOutput/web.config",
+		"/C/Users/ChenYitian/Desktop/config",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Publish/Website/wpbs.wdqh.com/web.config",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Wpbs.Webapi/Wpbs.WebApi/Logs/Error-20170222.log",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Db/2.1 Wpbs_Cust建表脚本.sql",
+		"/C/Users/ChenYitian/Desktop/Wpbs_Cust.sql",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Db/3.1 Wpbs_Dfm建表脚本.sql",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Db/2.2 Wpbs_Cust初始化脚本.sql",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Db/1.2 WUCC初始化脚本.sql",
+		"/C/Users/ChenYitian/Desktop/WUCC.sql",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Db/1.3 WUCC管理员账号初始化脚本.sql",
+		"/C/Users/ChenYitian/Desktop/发布/安装/DB/2.WUCC初始化测试数据.sql",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Publish/Website/wucc.wdqh.com/Web.config",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Db/1.1 WUCC建库脚本.sql",
+		"/C/Work/WDProjects/WUCC/WuccMvc/Wucc.wdqh.com/Web.config",
+		"/C/Work/Projects/Demo/blur-admin-master/gulpfile.js",
+		"/C/Work/Projects/Demo/blur-admin-master/package.json",
+		"/C/Users/ChenYitian/Desktop/发布/2017-02-21 生产/Publish/Services/WD_CMService/CMService.exe.config",
+		"/C/Work/Projects/Demo/blur-admin-master/bower.json",
+		"/C/Work/Projects/Demo/blur-admin-master/src/index.html",
+		"/C/Work/WDProjects/PMS/PMS/Client/js-client/src/components/Hello.vue",
+		"/C/Work/Projects/Test/element-ui-demo/package.json",
+		"/C/Work/WDProjects/PMS/JsClient/src/assets/css/global.css",
+		"/C/Work/WDProjects/PMS/JsClient/src/main.js",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/layout/Layout-Side-Nav.vue",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/layout/Layout-Main.vue",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/Logo.vue",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/layout/Layout-Side-Nav",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/layout/Layout-Top-Nav.vue",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/layout/Layout-Logo.vue",
+		"/C/Work/WDProjects/PMS/JsClient/src/router/index.js",
+		"/C/Work/WDProjects/PMS/JsClient/package.json",
+		"/C/Work/WDProjects/PMS/JsClient/src/App.vue",
+		"/C/Work/WDProjects/PMS/JsClient/index.html",
+		"/C/Work/WDProjects/PMS/JsClient/.eslintrc.js",
+		"/C/Work/WDProjects/PMS/PMS.JsClient/.eslintrc.js",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/Hello.vue",
+		"/C/Work/WDProjects/PMS/PMS.JsClient/index.html",
+		"/C/Work/WDProjects/PMS/JsClient/src/components/layout/Layout-Main",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统(PMS)/Client/JsClient/package.json",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统(PMS)/Client/JsClient/src/components/Hello.vue",
+		"/C/Work/JsClient/package.json",
+		"/C/Work/JsClient/src/components/Hello.vue",
+		"/C/Work/WDProjects/PMS/js-client/package.json",
+		"/C/Work/Temp/ttt/package.json",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/js-client/src/components/Hello.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/js-client/src/router/index.js",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/js-client/package.json",
+		"/C/Work/WDProjects/PMS/PMS.JsClient/package.json",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/components/Hello.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/router/index.js",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/components/layout/nav-top.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/components/layout/layout-main.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/components/logo.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/App.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/index.html",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/build/webpack.dev.conf.js",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/assets/css/global.css",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/main.js",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/components/layout/logo.vue",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/package.json",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Client/build/webpack.base.conf.js",
+		"/C/Work/WDProjects/WPBS/2Src/万达期货周边业务系统(Wpbs)/Client/package.json",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/build/webpack.base.conf.js",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/.eslintrc.js",
+		"/C/Work/WDProjects/PMS/资管组合投资管理系统 (PMS)/PMS.JsClient/src/components/layout/main.vue",
+		"/C/Users/ChenYitian/OneDrive/工具软件/翻墙/Vps/vpn_centos.sh",
+		"/C/Work/项目/PMS 华信组合投资管理系统/element-dashboard-master/src/pages/login/login.vue",
+		"/C/Work/项目/PMS 华信组合投资管理系统/element-dashboard-master/src/app.vue",
+		"/C/Users/ChenYitian/Desktop/vpn_one_click_install.sh",
+		"/C/Work/项目/PMS 华信组合投资管理系统/element-dashboard-master/package.json",
+		"/C/Work/Projects/Test/element-ui-demo/element-variables.css",
+		"/C/Work/Projects/Test/element-ui-demo/node_modules/element-theme-default/src/menu.css",
+		"/C/Work/Projects/Test/element-ui-demo/node_modules/element-theme-default/src/menu-item.css",
+		"/C/Work/Projects/Test/element-ui-demo/node_modules/element-ui/lib/theme-default/alert.css",
+		"/C/Work/Projects/Test/element-ui-demo/src/assets/css/site.css",
+		"/C/Work/Projects/Test/element-ui-demo/src/App.vue",
+		"/C/Work/Projects/Test/element-ui-demo/src/components/layout/TopNav.vue",
+		"/C/Work/Projects/Test/element-ui-demo/src/components/Layout.vue",
+		"/C/Work/Projects/Test/element-ui-demo/.eslintrc.js",
+		"/C/Work/Projects/Test/element-ui-demo/src/router/index.js",
+		"/C/Work/Projects/Test/element-ui-demo/src/components/layout/SideNav.vue",
+		"/C/Work/Projects/Test/element-ui-demo/node_modules/element-ui/lib/index.js",
+		"/C/Work/Projects/Test/element-ui-admin/my-project/node_modules/element-theme-default/src/alert.css",
+		"/C/Work/Projects/Test/element-ui-admin/my-project/node_modules/element-theme-default/README.md",
+		"/C/Work/Projects/Test/element-ui-admin/my-project/src/nav-config.js",
+		"/C/Work/Projects/Test/element-ui-demo/src/components/Layout/SideNav.vue",
+		"/C/Work/Projects/Test/element-ui-demo/src/components/layout/SideNav",
+		"/C/Work/Projects/Test/element-ui-demo/src/components/Hello.vue",
+		"/C/Work/Projects/Test/sui-demo/package.json",
+		"/C/tmp/WebApi2ScaffolderExtension/Templates/CustomCodeGenerator/ControllerTemplate.cs.t4",
+		"/C/Users/ChenYitian/Downloads/ODataSamples-master/WebApi/v4/ODataPagingSample/ODataPagingSample/Controllers/MoviesController.cs"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Work\\Temp\\ttt2",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\万达期货周边业务系统(Wpbs)\\Client\\src",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src",
+			"C:\\Work\\WDProjects\\public\\AdminLTE-2.3.5\\build.wpbs\\less",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\node_modules\\oidc-client\\src",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\vuex",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\static",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\vuex",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src",
+			"C:\\Work\\Projects\\Test\\vue-test",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\build",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\Src",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\build",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\config",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\build",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\static",
+			"C:\\Work\\WDProjects\\WPBS\\2Src\\Client",
+			"C:\\Work\\Temp\\vue-adminlte-master\\",
+			"C:\\Work\\Temp\\vue-adminlte-master\\src",
+			"C:\\Work\\Temp\\vueAdminLte\\src,C:\\Work\\Temp\\vue-adminlte-master\\src",
+			"C:\\Work\\Temp\\vueAdminLte\\src",
+			"C:\\Work\\Temp\\vueAdminLte\\*.*",
+			"C:\\Work\\Temp\\vueAdminLte",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cygdrive",
+			"Git",
+			"libexec",
+			"/usr",
+			"User specific ",
+			"User specific environment and startup programs",
+			"Path",
+			"Git",
+			"git",
+			"PasswordAuthentication",
+			"extract-text-webpack-plugin",
+			"exports-loader",
+			"imports-loader",
+			"file-loader",
+			"url-loader",
+			"style-loader",
+			"less-loader",
+			"css-loader",
+			"peerDependencies",
+			"loaders",
+			"plugin",
+			"path",
+			"RoleTemplate",
+			"User",
+			"Wpbs_Cust",
+			"eslint",
+			"serve",
+			"build",
+			"theme",
+			"ttt",
+			"autoprefixer",
+			"load",
+			"strip-ansi",
+			"company",
+			"requestLogin",
+			"babel-runtime",
+			"script",
+			"60px",
+			"horizontal",
+			"/* menu",
+			"menu",
+			"60px",
+			"height",
+			"--color-primary",
+			"--color-base-black",
+			"el-menu-item",
+			"menu",
+			"isCollapse",
+			">\n",
+			"ansi-html",
+			"strip-ansi",
+			"version",
+			"assetsPublicPath",
+			"publicPath",
+			"transition-group",
+			"transition-group ",
+			"list",
+			"\">\n",
+			"#fff",
+			"deep-equal",
+			"Sortable",
+			"Sortable+",
+			"vue-sortable",
+			"Bloodhound",
+			"bloodhound-js",
+			"getReportHeight",
+			"style",
+			"percentDisplay",
+			"toFix",
+			"toFixed",
+			"lodash",
+			"toFix",
+			"fix",
+			"chagneRating",
+			"onRatingItemChanged",
+			"customRating",
+			"checkCustomRating",
+			"customRating",
+			"DefaultRating",
+			"updateSettingDetails",
+			"customRating",
+			"checkCustomRating",
+			"parseFloat",
+			"items",
+			"checkCustomRating",
+			"updateSettingDetails",
+			"selectedDetails",
+			"checkCustomRating",
+			"this.$store",
+			"this.showError(this.$store",
+			"showWarningModal",
+			"showInfoModal",
+			"showSuccessModal",
+			"showModal",
+			"showSuccess",
+			"MODAL_CHANGE_EVENT",
+			"closeModalEvent",
+			"changeModalEvent",
+			"showError",
+			"MODAL_QUERY_API_ERROR",
+			"modal",
+			"filter",
+			"custQueryData",
+			"modal.isShow",
+			"custQueryData",
+			"hideModal",
+			"datetimepicker",
+			".datetimepicker({",
+			"getCustCommiStatus",
+			"initData.js",
+			"getCustCommiStatus",
+			"debugger",
+			"oldItem",
+			"beginEdit",
+			"cancelEdit",
+			"beginEdit",
+			"begin",
+			"beginEdit",
+			"beginItem",
+			"items",
+			"cancelEdit",
+			"beginEdit",
+			"oldItem",
+			"AdditionType",
+			"additionChanged",
+			"quitEdit",
+			"cancelEdit",
+			"lastmonth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"th",
+			"",
+			"quitEdit",
+			" === ",
+			"!==",
+			"",
+			"report-table",
+			"\\n",
+			" ",
+			",",
+			"'",
+			"chartUnitMonth",
+			"'",
+			"currentStaff",
+			"original",
+			"Original",
+			"\\\"",
+			"selectedSetting",
+			"DfmOiginalDepositBaseSetting",
+			"params",
+			"",
+			"\\'",
+			"staff",
+			"DfmLogicDepartment",
+			"DfmLogicCompany",
+			"./../components/pages/",
+			"manageCustsRefreshed",
+			"manageCustsNeedRefresh",
+			"approvingCustNoNeedReload",
+			"approvingCustNeedReload",
+			"",
+			"currentCust",
+			"_self.suffixing",
+			"suffixing",
+			"commit",
+			"suffixing",
+			"this.suffixing",
+			"del",
+			"active-class",
+			"commit",
+			"state",
+			"commit",
+			"\"",
+			"'",
+			"",
+			"'",
+			"showEdit",
+			"showCreate",
+			"this.key",
+			"'",
+			"this.custs",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"'",
+			"",
+			"custSaveCustCommi",
+			"custDeleteCustNo",
+			"custSubmitToAudit",
+			"'",
+			"",
+			"'",
+			"wucc.wdqh.com",
+			"../../assets/image/",
+			"static/dist/img/",
+			"$Controller$",
+			"",
+			"\\n",
+			"44302",
+			"assets/adminlte",
+			"    ",
+			"App",
+			"App2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "build/check-versions.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								1047
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1052,
+										1053
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1016,
+										1017
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"origin_encoding": "ASCII",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1488176662.63,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pms-js-client.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gett",
+				"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\vuex\\getters.js"
+			],
+			[
+				"get",
+				"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\components\\widgets\\modal.vue"
+			],
+			[
+				"action",
+				"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\vuex\\actions.js"
+			],
+			[
+				"getter",
+				"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\vuex\\getters.js"
+			],
+			[
+				"ge",
+				"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\vuex\\getters.js"
+			],
+			[
+				"main.j",
+				"C:\\Work\\WDProjects\\WPBS\\2Src\\Client\\src\\main.js"
+			],
+			[
+				"ap",
+				"C:\\Work\\Temp\\vue-adminlte-master\\src\\App.vue"
+			],
+			[
+				"he",
+				"C:\\Work\\Temp\\vue-adminlte-master\\src\\components\\layout\\Header.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
