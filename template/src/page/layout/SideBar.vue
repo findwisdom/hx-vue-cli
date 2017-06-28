@@ -7,7 +7,7 @@
             <span class="menu-list-text" @click.stop="[menuShow($event),routerChange(menuItems.name)]">
                <Tooltip :content="menuItems.text" placement="right">
                 <Icon :type="menuItems.icon" :size="iconSize" class="icon-left item-icon"></Icon>
-                <span class="layout-text item-text">\\{{menuItems.text}}</span>
+                <span class="layout-text item-text">\{{menuItems.text}}</span>
                </Tooltip>
             </span>
         </li>

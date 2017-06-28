@@ -13,7 +13,7 @@
         <!--<input type="text" v-model="formCustom.username" placeholder="输入用户名" autocomplete="off" class="ivu-input">-->
         <Input type="text" v-model="formCustom.username" placeholder="输入用户名" icon="person" @on-focus="handleFocus()" @on-blur="handleBlur()"></Input>
         <ul v-show="usenameBox" class="usernamebox">
-          <li v-for="(value, key) in userNameSave" @click="handleLogin(value, key)">{{key}}</li>
+          <li v-for="(value, key) in userNameSave" @click="handleLogin(value, key)">\{{key}}</li>
         </ul>
         <input type="text" style="display: none">
       </Form-item>
