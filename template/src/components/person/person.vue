@@ -1,15 +1,15 @@
 <template>
   <div :class="['user', {userselect: messageShow}]" @click="personShow">
     <span class="person-icon"></span>
-    <span class="user-name">{{ user.profile.FullName }}</span>
+    <span class="user-name">\{{ user.profile.FullName }}</span>
     <div class="person-messageShow" v-show="messageShow">
       <div class="person-message">
         <span class="person-image"></span>
         <p class="person-userFullName">
-          {{user.profile.FullName}}
+          \{{user.profile.FullName}}
         </p>
         <p class="person-SalesDepartment">
-          <small>{{user.profile.SalesDepartment}}</small>
+          <small>\{{user.profile.SalesDepartment}}</small>
         </p>
       </div>
       <div class="person-button">
