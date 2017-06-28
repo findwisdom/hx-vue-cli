@@ -7,7 +7,7 @@
             <span class="menu-list-text" @click.stop="[menuShow($event),routerChange(menuItems.name)]">
                <Tooltip :content="menuItems.text" placement="right">
                 <Icon :type="menuItems.icon" :size="iconSize" class="icon-left item-icon"></Icon>
-                <span class="layout-text item-text">{{menuItems.text}}</span>
+                <span class="layout-text item-text">\\{{menuItems.text}}</span>
                </Tooltip>
             </span>
         </li>
@@ -15,7 +15,7 @@
             <span class="menu-list-text" @click.stop="menuShow($event)">
               <Tooltip :content="menuItems.text" placement="right">
                 <Icon :type="menuItems.icon" :size="iconSize" class="icon-left item-icon"></Icon>
-                <span class="layout-text item-text">{{menuItems.text}}</span>
+                <span class="layout-text item-text">\{{menuItems.text}}</span>
               </Tooltip>
               <Icon type="arrow-down-b" :size="iconSize" class="layout-text item-icon active-icon" style="padding-right: 5px"></Icon>
             </span>
@@ -26,7 +26,7 @@
                               @click.stop="[menuShow($event),routerChange(item.name)]">
                           <Tooltip :content="item.text" placement="right">
                             <Icon :type="item.icon" :size="iconSize" class="icon-left sub-item-icon sub-icon"></Icon>
-                            <span class="layout-text sub-item-text">{{item.text}}</span>
+                            <span class="layout-text sub-item-text">\{{item.text}}</span>
                         </Tooltip>
                     </span>
               </li>
@@ -34,7 +34,7 @@
                     <span @click.stop="menuShow($event)" class="sub-list-text">
                       <Tooltip :content="item.text" placement="right">
                         <Icon :type="item.icon" :size="iconSize" class="icon-left sub-item-icon sub-icon"></Icon>
-                        <span class="layout-text sub-item-text">{{item.text}}</span>
+                        <span class="layout-text sub-item-text">\{{item.text}}</span>
                       </Tooltip>
                       <Icon type="arrow-down-b" :size="iconSize" class="layout-text active-icon" style="display: inline-block;padding-right: 5px"></Icon>
                     </span>
@@ -45,7 +45,7 @@
                               @click.stop="[endSelect(val, index, endIndex), routerChange(subItem.name)]">
                           <Tooltip :content="subItem.text" placement="right">
                             <Icon :type="subItem.icon" :size="iconSize" class="icon-left sub-item-icon sub-icon"></Icon>
-                            <span class="layout-text sub-item-text">{{subItem.text}}</span>
+                            <span class="layout-text sub-item-text">\{{subItem.text}}</span>
                           </Tooltip>
                         </span>
                     </li>

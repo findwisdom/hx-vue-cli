@@ -2,12 +2,12 @@
     <div class="layout-breadcrumb">
         <Breadcrumb>
             <template v-if="firstBool">
-                <Breadcrumb-item href="#">{{firstName}}</Breadcrumb-item>
-                <!--<Breadcrumb-item href="#">{{firstName}}</Breadcrumb-item>-->
+                <Breadcrumb-item href="#">\{{firstName}}</Breadcrumb-item>
+                <!--<Breadcrumb-item href="#">\{{firstName}}</Breadcrumb-item>-->
             </template>
             <template v-else>
-                <Breadcrumb-item href="#">{{firstName}}</Breadcrumb-item>
-                <Breadcrumb-item href="#" >{{secondName}}</Breadcrumb-item>
+                <Breadcrumb-item href="#">\{{firstName}}</Breadcrumb-item>
+                <Breadcrumb-item href="#" >\{{secondName}}</Breadcrumb-item>
             </template>
         </Breadcrumb>
     </div>
