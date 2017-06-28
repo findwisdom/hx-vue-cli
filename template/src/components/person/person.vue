@@ -1,7 +1,7 @@
 <template>
   <div :class="['user', {userselect: messageShow}]" @click="personShow">
     <span class="person-icon"></span>
-    <span class="user-name">{{user.profile.FullName}}</span>
+    <span class="user-name">{{ user.profile.FullName }}</span>
     <div class="person-messageShow" v-show="messageShow">
       <div class="person-message">
         <span class="person-image"></span>

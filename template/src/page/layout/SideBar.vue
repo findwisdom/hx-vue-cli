@@ -2,25 +2,25 @@
   <div>
     <div class="layout-logo-left">WMS</div>
     <ul class="menu-list" ref="menulist">
-      <template v-for="(menuItem, index) in menu">
-        <li v-if="!menuItem.child && routerRole(menuItem.role)" class="menu-list-item inactive">
-            <span class="menu-list-text" @click.stop="[menuShow($event),routerChange(menuItem.name)]">
-               <Tooltip :content="menuItem.text" placement="right">
-                <Icon :type="menuItem.icon" :size="iconSize" class="icon-left item-icon"></Icon>
-                <span class="layout-text item-text">{{menuItem.text}}</span>
+      <template v-for="(menuItems, index) in menu">
+        <li v-if="!menuItems.child && routerRole(menuItems.role)" class="menu-list-item inactive">
+            <span class="menu-list-text" @click.stop="[menuShow($event),routerChange(menuItems.name)]">
+               <Tooltip :content="menuItems.text" placement="right">
+                <Icon :type="menuItems.icon" :size="iconSize" class="icon-left item-icon"></Icon>
+                <span class="layout-text item-text">{{menuItems.text}}</span>
                </Tooltip>
             </span>
         </li>
-        <li v-else-if="routerRole(menuItem.role)" class="menu-list-item inactive">
+        <li v-else-if="routerRole(menuItems.role)" class="menu-list-item inactive">
             <span class="menu-list-text" @click.stop="menuShow($event)">
-              <Tooltip :content="menuItem.text" placement="right">
-                <Icon :type="menuItem.icon" :size="iconSize" class="icon-left item-icon"></Icon>
-                <span class="layout-text item-text">{{menuItem.text}}</span>
+              <Tooltip :content="menuItems.text" placement="right">
+                <Icon :type="menuItems.icon" :size="iconSize" class="icon-left item-icon"></Icon>
+                <span class="layout-text item-text">{{menuItems.text}}</span>
               </Tooltip>
               <Icon type="arrow-down-b" :size="iconSize" class="layout-text item-icon active-icon" style="padding-right: 5px"></Icon>
             </span>
           <ul class="sub-menu-list" style="display: none">
-            <template v-for="(item, val) in menuItem.child">
+            <template v-for="(item, val) in menuItems.child">
               <li v-if="!item.child && routerRole(item.role)" class="subinactive sub-item">
                         <span class="sub-list-text"
                               @click.stop="[menuShow($event),routerChange(item.name)]">
